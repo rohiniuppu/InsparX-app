@@ -1,7 +1,0 @@
-{
-  "name": "InsparX",
-  "description": "A sophisticated, AI-powered insurance sanctuary for the modern gig worker. Real-time risk monitoring, dynamic premiums, and instant claims management.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
